@@ -1,0 +1,2 @@
+# blue-mist
+random thoughts
